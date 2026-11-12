@@ -3,7 +3,7 @@
 **Gizzle Montemayor**  
 📍 Davao Region, Philippines | ✉️ my.freeup@gmail.com
 🔗 **LinkedIn:** www.linkedin.com/in/gizzlesaygo 
-🛡️ **TryHackMe Profile:** https://tryhackme.com/p/DTiger?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=d149e8c75b4a&utm_source=copy&share_date=2026-11-12&sharerId=6a4c735f0e6c2287c48611c5  
+🛡️ **TryHackMe Profile:** https://tryhackme.com/p/DTiger
 
 ---
 
